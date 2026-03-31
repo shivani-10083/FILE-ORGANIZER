@@ -49,6 +49,16 @@ The File Organizer is a project developed to simplify the task of managing files
 - Verify that all files are correctly sorted
 
 ## SCREENSHOTS OF OUTPUTS
+<img width="677" height="111" alt="Screenshot 2026-03-31 215533" src="https://github.com/user-attachments/assets/4c673e3e-20b0-43d1-8429-f0e744b45af8" />
+
+
+<img width="686" height="198" alt="Screenshot 2026-03-31 215821" src="https://github.com/user-attachments/assets/5dab59a2-2230-4dc1-a779-aa564b51789d" />
+
+
+<img width="683" height="156" alt="Screenshot 2026-03-31 220503" src="https://github.com/user-attachments/assets/83697fd2-219a-44e7-ae0a-5ae30a5f520e" />
+
+
+<img width="905" height="177" alt="Screenshot 2026-03-31 220913" src="https://github.com/user-attachments/assets/c70230b5-94b4-4ceb-81c9-99d232e05830" />
 
 ## LIMITATIONS
 - Does not create folders if they are missing
