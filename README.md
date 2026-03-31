@@ -48,5 +48,19 @@ The File Organizer is a project developed to simplify the task of managing files
   Video files move to Videos folder
 - Verify that all files are correctly sorted
 
+## SCREENSHOTS OF OUTPUTS
+
 ## LIMITATIONS
-- 
+- Does not create folders if they are missing
+- May overwrite files with the same name
+- Only works for predefined file extensions
+- Works only in the current directory
+- No graphical user interface
+
+## FUTURE ENHANCEMENTSAdd
+- Add graphical user interface (GUI)
+- Provide user customization for file types
+- Create folders automatically if not present
+- Add duplicate file handling mechanism
+- Extend support for more file formats
+- Enable sorting in subfolders
